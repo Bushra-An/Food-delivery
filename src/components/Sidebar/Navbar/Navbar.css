@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    background-color: #FFC94A;
+}
+.navbar .logo{
+    width: max(15%,80px);
+    height: 80px;
+}
+
+.navbar img{
+    width: 40px;
+    border-radius: 20px;
+}
